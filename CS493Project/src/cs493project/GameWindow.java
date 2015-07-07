@@ -24,9 +24,7 @@ public class GameWindow extends JFrame implements Runnable, Constants {
     public Graphics g;
     public String score;
     public Rectangle special;
-    public Circle lives;
     
-
     public GameWindow(CSGame params) {
         super(params.title);
         this.game = params;
