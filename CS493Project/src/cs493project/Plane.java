@@ -4,7 +4,6 @@ import java.awt.Point;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import java.sql.Date;
 import java.time.LocalDate;
 import java.util.logging.Level;
 import java.util.logging.Logger;
